@@ -1,4 +1,4 @@
 # AUTOR
 
 Downtown Auto Car Service and Repair Centers is a chain of car service centers owned by Downtown Auto Inc spread across the United States. They service and repair Honda, Nissan, Toyota, Lexus and Infiniti cars.
-Your task is to design a database system, AUTOR, that allows Downtown Auto corporation and its customers to keep a record of and manage the following information for all its repair centers. This description provides an indication of what important information (italicized) will need to be stored in the database as attributes and relationships. Suggested attributes for the different entity types are listed in the application; however, these suggestions are by no means exhaustive so you may find that you need to introduce additional attributes beyond the ones explicitly mentioned in this document in some cases.
+A database system, AUTOR, that allows Downtown Auto corporation and its customers to keep a record of and manage the following information for all its repair centers. 
